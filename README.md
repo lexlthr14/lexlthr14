@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Wothando
-- 👀 I’m interested in software and game development
-- 🌱 I’m currently learning Deep Learning and Astrophysics
-- 💞️ I’m looking to collaborate on Lost Son Of Africa(open world fantasy rpg)
+
 
 
 <!---
